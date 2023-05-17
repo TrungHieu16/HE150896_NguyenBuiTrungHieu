@@ -1,0 +1,8 @@
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\ProductManagementWebClientt\obj\Debug\net6.0\ProductManagementWebClientt.csproj.AssemblyReference.cache
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\ProductManagementWebClientt\obj\Debug\net6.0\ProductManagementWebClientt.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\ProductManagementWebClientt\obj\Debug\net6.0\ProductManagementWebClientt.AssemblyInfoInputs.cache
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\ProductManagementWebClientt\obj\Debug\net6.0\ProductManagementWebClientt.AssemblyInfo.cs
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\ProductManagementWebClientt\obj\Debug\net6.0\ProductManagementWebClientt.csproj.CoreCompileInputs.cache
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\ProductManagementWebClientt\obj\Debug\net6.0\ProductManagementWebClientt.MvcApplicationPartsAssemblyInfo.cache
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\ProductManagementWebClientt\obj\Debug\net6.0\ProductManagementWebClientt.RazorAssemblyInfo.cache
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\ProductManagementWebClientt\obj\Debug\net6.0\ProductManagementWebClientt.RazorAssemblyInfo.cs

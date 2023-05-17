@@ -1,0 +1,16 @@
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.dll
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\bin\Debug\net6.0\BusinessObjects.pdb
+D:\FU Learning\Summer 2023\PRN231\Demo\Lab01_ASP.NETCoreWebAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
